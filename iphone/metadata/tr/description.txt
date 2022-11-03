@@ -1,17 +1,18 @@
-• Diğer haritalarda bulunmayan yerleri içeren ayrıntılı çevrimdışı haritalar
-• Bisiklet yolları, yürüyüş parkurları ve yürüyüş yolları
+• Diğer haritalarda bulunmayan yerleri içeren ayrıntılı çevrim dışı haritalar
+• Bisiklet yolları, yürüyüş parkurları ve yolları
 • Eş yükselti çizgileri, yükseklik profilleri, tepeler ve eğimler
 • Sesli yönergelerle adım adım yürüyüş, bisiklet ve araç navigasyonu
-• Harita ve yer imlerinde hızlı çevrimdışı arama
+• Hızlı çevrim dışı arama
+• İhtiyacınız olan her şeyi işaretleyin, KML/KMZ'yi içe aktarın ve paylaşın (GPX planlanmaktadır)
 • Gözlerinizi korumak için karanlık mod
 
 Organic Maps, sevgiyle yapılmış saf ve organiktir:
 
 • Gizliliğinize saygı duyar
 • Pilinizi korur
-• Beklenmeyen mobil veri ücretleri yok
+• Beklenmeyen mobil veri ücretleri yoktur
 
-İzleyicilerden ve diğer kötü şeylerden arınmış:
+İzleyicilerden ve diğer kötü şeylerden arınmıştır:
 
 • Reklam yok
 • İzleme yok
